@@ -261,4 +261,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/fran
 
 ---
 
-Made with ♥ by Franciane Póvoa :wave: [Get in touch!](www.linkedin.com/in/francianerpovoa) 
+Made with ♥ by Franciane Póvoa :wave: [Get in touch!](https://github.com/francianepovoa) 
