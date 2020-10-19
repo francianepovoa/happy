@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Logo" src="https://github.com/eltonlazzarin/happy/blob/main/mobile/src/assets/images/map-marker%402x.png" />
+	<img alt="Logo" src="https://github.com/francianepovoa/Happy_project/blob/master/mobile/src/images/map-marker%402x.png" />
 </h1>
 
 <h3 align="center">
@@ -7,18 +7,18 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/eltonlazzarin/happy">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/francianepovoa/Happy_project">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/eltonlazzarin/happy">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/francianepovoa/Happy_project">
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/eltonlazzarin/happy">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/francianepovoa/Happy_project">
 
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/happy">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/francianepovoa/Happy_project">
   
-  <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/happy">
+  <img alt="GitHub" src="https://img.shields.io/github/license/francianepovoa/Happy_project">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="#-about-the-project">About The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-backend-technologies">Backend Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-backend-getting-started">Backend Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -271,4 +271,4 @@ This project is under the MIT license. See the [LICENSE]() for more information.
 
 ---
 
-Made with ♥ by Franciane Póvoa :wave: [Get in touch!]()
+Made with ♥ by Franciane Póvoa :wave: [Get in touch!]() -->
