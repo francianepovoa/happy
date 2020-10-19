@@ -6,6 +6,11 @@
 <p>
 <p align="center">
 	<img alt="language" src="https://img.shields.io/github/languages/count/francianepovoa/happy" />
+  <img alt="typescript" src="https://img.shields.io/github/languages/top/francianepovoa/happy" />
+  <img alt="commit" src="https://img.shields.io/github/last-commit/francianepovoa/happy" />
+  <img alt="repo size" src="https://img.shields.io/github/repo-size/francianepovoa/happy" />
+  <img alt="license" src="https://img.shields.io/github/license/francianepovoa/happy" />
+  
 </p>
 
 
