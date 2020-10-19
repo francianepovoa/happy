@@ -1,6 +1,6 @@
 # Happy is a complete application built on Node.js, ReactJs and React Native
 
-![Alternate text] (map-marker.png)
+![Getting Started](./mobile/src/images/map-marker@2x.png)
 
 
 
