@@ -1,7 +1,11 @@
 # Happy is a complete application built on Node.js, ReactJs and React Native
 
+<p>
+<a href0"https://img.shields.io/github/languages/count/francianepovoa/happy?style=social">
+
+<p>
 <p align="center">
-	<img alt="Logo" src="https://github.com/francianepovoa/happy/blob/master/mobile/src/images/map-marker.png" />
+	<img alt="language" src="https://img.shields.io/github/languages/count/francianepovoa/happy" />
 </p>
 
 
