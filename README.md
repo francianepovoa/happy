@@ -4,15 +4,15 @@
 </h2>
 
 <h3 align="center">
-	<img alt="Logo" src="https://github.com/francianepovoa/Happy_project/blob/master/mobile/src/images/map-marker%402x.png" />
+	<img alt="Logo" src="https://github.com/francianepovoa/happy/blob/master/mobile/src/images/map-marker.png" />
 </h2>
 
 
 <p align="center">
-  <a href="#-about-the-project">About The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-backend-technologies">Backend Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-backend-getting-started">Backend Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute-backend">How To Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-about-the-project">About The Project</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-backend-technologies">Backend Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-backend-getting-started">Backend Getting Started</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="#-how-to-contribute-backend">How To Contribute</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-backend-license">Backend License</a>
 </p>
 
