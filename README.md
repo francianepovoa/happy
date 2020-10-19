@@ -73,7 +73,7 @@ $ git clone https://github.com/francianepovoa/happy.git
 
 $ cd happy
 
-$ cd server
+$ cd backend
 ```
 
 **Follow the steps below**
