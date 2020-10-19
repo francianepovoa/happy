@@ -182,7 +182,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/fran
 ## 🚀 Mobile Technologies
 
 <h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/francianepovoa/happy/blob/master/images/Mapa.png" width="50px" height="100px" />
+	<img alt="Project Screenshots" src="https://github.com/francianepovoa/happy/blob/master/images/Mapa.png" width="150px" height="300px" />
 </h1>
 
 
