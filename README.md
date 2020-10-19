@@ -1,7 +1,9 @@
 
-<h2 align="center">
+<h1 align="center">
   Happy is a complete application built on Node.js, ReactJs and React Native.
-</h2>
+</h1>
+
+---
 
 <h3 align="center">
 	<img alt="Logo" src="https://github.com/francianepovoa/happy/blob/master/mobile/src/images/map-marker.png" />
@@ -38,6 +40,8 @@
 
 This is a project developed during #NextLevelWeek3. An online programming event offered by Rocketseat that shows how to use the JavaScript/TypeScript stack, on the backend with Nodejs, on the frontend with ReactJS and on the mobile using Expo.</p>
 
+
+---
 ## 🚀 Backend Technologies
 
 Technologies that I used to develop this api
@@ -54,6 +58,7 @@ Technologies that I used to develop this api
 - [VS Code](https://code.visualstudio.com) and [Prettier RC](https://github.com/prettier/prettier)
 - [Insomnia](https://insomnia.rest/)
 - [Beekeeper Studio](https://www.beekeeperstudio.io/)
+
 
 ## 💻 Backend getting started
 
@@ -92,7 +97,7 @@ $ git clone https://github.com/francianepovoa/happy.git
 
 $ cd happy
 
-$ cd server
+$ cd backend
 
 # Create a branch with your feature
 $ git checkout -b your-feature
@@ -109,6 +114,8 @@ After your pull request is merged, you can delete your branch
 ## 📝 Backend License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/francianepovoa/happy/blob/master/LICENSE) for more information.
+
+---
 
 ## 🚀 Frontend Technologies
 
@@ -181,6 +188,8 @@ After your pull request is merged, you can delete your branch
 ## 📝 Frontend License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/francianepovoa/happy/blob/master/README.md) for more information.
+
+---
 
 ## 🚀 Mobile Technologies
 
