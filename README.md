@@ -109,9 +109,9 @@ This project is under the MIT license. See the [LICENSE](https://github.com/fran
 
 ## 🚀 Frontend Technologies
 
-<!--h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/" />
-</h1-->
+<h1 align="center">
+	<img alt="Project Screenshots" src="https://github.com/francianepovoa/happy/blob/master/images/Home.png" />
+</h1>
 
 Technologies that I used to develop this frontend app
 
@@ -181,9 +181,10 @@ This project is under the MIT license. See the [LICENSE](https://github.com/fran
 
 ## 🚀 Mobile Technologies
 
-<!--h1 align="center">
-	<img alt="Mobile App Screenshots" src="https://github.com/eltonlazzarin/happy/blob/master/screenshots/mobile/happymobile.gif" hight="380" width="350" />
-</h1-->
+<h1 align="center">
+	<img alt="Project Screenshots" src="https://github.com/francianepovoa/happy/blob/master/images/Mapa.png" />
+</h1>
+
 
 Technologies that I used to develop this mobile app
 
@@ -260,4 +261,4 @@ This project is under the MIT license. See the [LICENSE](https://github.com/fran
 
 ---
 
-Made with ♥ by Franciane Póvoa :wave: [Get in touch!](www.linkedin.com/in/francianerpovoa) -->
+Made with ♥ by Franciane Póvoa :wave: [Get in touch!](www.linkedin.com/in/francianerpovoa) 
