@@ -1,10 +1,11 @@
+
 <h1 align="center">
-	<img alt="Logo" src="https://github.com/francianepovoa/Happy_project/blob/master/mobile/src/images/map-marker%402x.png" />
+  Happy is a complete application built on Node.js, ReactJs and React Native that helps orphans have a bright and happy day
 </h1>
 
 <h3 align="center">
-  Happy is a complete application built on Node.js, ReactJs and React Native that helps orphans have a bright and happy day
-</h3>
+	<img alt="Logo" src="https://github.com/francianepovoa/Happy_project/blob/master/mobile/src/images/map-marker%402x.png" />
+</h2>
 
 
 <p align="center">
