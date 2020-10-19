@@ -6,15 +6,13 @@
 
 
 <p align="center">
-  <a href="#-about-the-project">About The Project</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-backend-technologies">Backend Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-backend-getting-started">Backend Getting Started</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-how-to-contribute-backend">How To Contribute</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-backend-license">Backend License</a>
 </p>
 
-<p align="center">
-  <a href="#-about-the-project">About The Project</a>&nbsp;|&nbsp; 
+<p align="center"> 
   <a href="#-frontend-technologies">Frontend Technologies</a>&nbsp;|&nbsp;
   <a href="#-frontend-getting-started">Frontend Getting Started</a>&nbsp;|&nbsp
   <a href="#-how-to-contribute-frontend">How To Contribute</a>&nbsp;|&nbsp;
@@ -22,7 +20,6 @@
 </p>
 
 <p align="center">
-  <a href="#-about-the-project">About The Project</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-mobile-technologies">Mobile Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-mobile-getting-started">Mobile Getting Started</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#-how-to-contribute-mobile">How To Contribute</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -33,7 +30,7 @@
 
 <p>Happy is a project that aims to bring people together to visit children and teenagers in orphanages in order to make their days more joyful. Both on the web and on the mobile version, the institutions that house these children and adolescents can register and from there, through a map inside the platform, volunteers can choose the closest institution, or the one that is most interesting and get informed with them how to schedule a visitation and/or donation of materials that it is currently needing.
 
-This is a project developed during #NextLevelWeek3. An online programming event offered by Rocketseat that shows how to use the JavaScript/TypeScript stack, on the backend with Nodejs, on the frontend with ReactJS and on the mobile using Expo.</p>
+This is a project developed by me (Franciane Povoa) during #NextLevelWeek3. An online programming event offered by Rocketseat that shows how to use the JavaScript/TypeScript stack, on the backend with Nodejs, on the frontend with ReactJS and on the mobile using Expo.</p>
 
 
 ---
