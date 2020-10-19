@@ -6,25 +6,14 @@
   Happy is a complete application built on Node.js, ReactJs and React Native that helps orphans have a bright and happy day
 </h3>
 
+
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/francianepovoa/Happy_project">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/francianepovoa/Happy_project">
-
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/francianepovoa/Happy_project">
-
-  <img alt="GitHub issues" src="https://img.shields.io/github/issues/francianepovoa/Happy_project">
-  
-  <img alt="GitHub" src="https://img.shields.io/github/license/francianepovoa/Happy_project">
-</p>
-
-<!-- <p align="center">
   <a href="#-about-the-project">About The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-backend-technologies">Backend Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-backend-getting-started">Backend Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute-backend">How To Contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-backend-license">Backend License</a>
-</p>
+</p><!
 
 <p align="center">
   <a href="#-about-the-project">About The Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
@@ -61,7 +50,7 @@ Technologies that I used to develop this api
 - [Sqlite3](https://github.com/sqlite/sqlite)
 - [Multer](https://github.com/expressjs/multer)
 - [Yup](https://github.com/jquense/yup)
-- [VS Code](https://code.visualstudio.com) with [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
+- [VS Code](https://code.visualstudio.com) and [Prettier RC](https://github.com/prettier/prettier)
 
 ## 💻 Backend getting started
 
@@ -96,7 +85,7 @@ $ yarn dev
 
 ```bash
 # Clone your fork
-$ git clone https://github.com/
+$ git clone https://github.com/francianepovoa/happy.git
 
 $ cd happy
 
@@ -116,7 +105,7 @@ After your pull request is merged, you can delete your branch
 
 ## 📝 Backend License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/francianepovoa/happy/blob/master/LICENSE) for more information.
 
 ## 🚀 Frontend Technologies
 
@@ -133,7 +122,7 @@ Technologies that I used to develop this frontend app
 - [React-Icons](https://react-icons.github.io/react-icons)
 - [React-Leaflet](https://react-leaflet.js.org)
 - [React-Icons](https://react-icons.github.io/react-icons)
-- [VS Code](https://code.visualstudio.com) with [ESLInt](https://eslint.org/docs/user-guide/getting-started), [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) and [Prettier RC](https://github.com/prettier/prettier)
+- [VS Code](https://code.visualstudio.com) with [ESLInt](https://eslint.org/docs/user-guide/getting-started), and [Prettier RC](https://github.com/prettier/prettier)
 
 ## 💻 Frontend getting started
 
@@ -145,7 +134,7 @@ Technologies that I used to develop this frontend app
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/
+$ git clone https://github.com/francianepovoa/happy.git
 
 $ cd happy
 
@@ -168,7 +157,7 @@ $ yarn start
 
 ```bash
 # Clone your fork
-$ git clone https://github.com/
+$ git clone https://github.com/francianepovoa/happy.git
 
 $ cd happy
 
@@ -188,7 +177,7 @@ After your pull request is merged, you can delete your branch
 
 ## 📝 Frontend License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/eltonlazzarin/happy/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/francianepovoa/happy/blob/master/README.md) for more information.
 
 ## 🚀 Mobile Technologies
 
@@ -218,7 +207,7 @@ Technologies that I used to develop this mobile app
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/eltonlazzarin/happy.git
+$ git clone https://github.com/francianepovoa/happy.git
 
 $ cd happy
 
@@ -247,7 +236,7 @@ $ yarn start
 
 ```bash
 # Clone your fork
-$ git clone https://github.com/
+$ git clone https://github.com/francianepovoa/happy.git
 
 $ cd happy
 
@@ -267,8 +256,8 @@ After your pull request is merged, you can delete your branch
 
 ## 📝 Mobile License
 
-This project is under the MIT license. See the [LICENSE]() for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/francianepovoa/happy/blob/master/LICENSE)) for more information.
 
 ---
 
-Made with ♥ by Franciane Póvoa :wave: [Get in touch!]() -->
+Made with ♥ by Franciane Póvoa :wave: [Get in touch!](www.linkedin.com/in/francianerpovoa) -->
