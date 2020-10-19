@@ -62,7 +62,7 @@ Technologies that I used to develop this api
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/
+$ git clone https://github.com/francianepovoa/happy.git
 
 $ cd happy
 
@@ -182,7 +182,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/fran
 ## 🚀 Mobile Technologies
 
 <h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/francianepovoa/happy/blob/master/images/Mapa.png" />
+	<img alt="Project Screenshots" src="https://github.com/francianepovoa/happy/blob/master/images/Mapa.png" width="5px" height="10px" />
 </h1>
 
 
