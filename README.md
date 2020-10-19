@@ -52,6 +52,8 @@ Technologies that I used to develop this api
 - [Multer](https://github.com/expressjs/multer)
 - [Yup](https://github.com/jquense/yup)
 - [VS Code](https://code.visualstudio.com) and [Prettier RC](https://github.com/prettier/prettier)
+- [Insomnia](https://insomnia.rest/)
+- [Beekeeper Studio](https://www.beekeeperstudio.io/)
 
 ## 💻 Backend getting started
 
@@ -258,7 +260,7 @@ After your pull request is merged, you can delete your branch
 
 ## 📝 Mobile License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/francianepovoa/happy/blob/master/LICENSE)) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/francianepovoa/happy/blob/master/LICENSE) for more information.
 
 ---
 
